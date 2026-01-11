@@ -13,8 +13,8 @@ const Footer = () => {
                 <div className="footer-section">
                     <h4>Connect:</h4>
                     <div className="footer-socials">
-                        <a href="https://github.com" target="_blank" rel="noopener noreferrer"><Github size={20} /></a>
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer"><Linkedin size={20} /></a>
+                        <a href="https://github.com/ashishsatpute1808" target="_blank" rel="noopener noreferrer"><Github size={20} /></a>
+                        <a href="https://www.linkedin.com/in/ashish-satpute-1b8802244" target="_blank" rel="noopener noreferrer"><Linkedin size={20} /></a>
                         <a href="mailto:ashishsatpute1808@gmail.com"><Mail size={20} /></a>
                     </div>
                 </div>

@@ -8,7 +8,7 @@ const Projects = () => {
       title: "Appointment_Scheduler",
       description: "Designed and developed a full-stack CRUD application for managing appointment schedules. Implemented authentication, form validation, and optimized API response times.",
       tech: ["ASP.NET Core", "EF Core", "SQL Server", "Angular"],
-      github: "https://github.com",
+      github: "https://github.com/ashishsatpute1808",
       live: "#",
     },
     {
@@ -16,7 +16,7 @@ const Projects = () => {
       title: "E-Commerce_Platform_Demo",
       description: "A full-featured online store architecture demonstrating microservices patterns and secure payment integration.",
       tech: ["C#", ".NET Core", "React", "Azure"],
-      github: "https://github.com",
+      github: "https://github.com/ashishsatpute1808",
       live: "#",
     },
     {
@@ -24,7 +24,7 @@ const Projects = () => {
       title: "Task_Management_System",
       description: "Real-time task tracking application with team collaboration features and automated reporting.",
       tech: ["Node.js", "MongoDB", "Express", "React"],
-      github: "https://github.com",
+      github: "https://github.com/ashishsatpute1808",
       live: "#",
     }
   ];

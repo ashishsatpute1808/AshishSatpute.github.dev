@@ -48,10 +48,10 @@ const Hero = () => {
                 </div>
 
                 <div className="social-links">
-                    <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                    <a href="https://github.com/ashishsatpute1808" target="_blank" rel="noopener noreferrer" className="social-icon">
                         <Github size={20} />
                     </a>
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="social-icon">
+                    <a href="https://www.linkedin.com/in/ashish-satpute-1b8802244" target="_blank" rel="noopener noreferrer" className="social-icon">
                         <Linkedin size={20} />
                     </a>
                 </div>
