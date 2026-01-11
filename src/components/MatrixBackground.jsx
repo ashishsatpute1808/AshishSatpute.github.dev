@@ -60,7 +60,7 @@ const MatrixBackground = () => {
                 width: '100%',
                 height: '100%',
                 zIndex: -1,
-                opacity: 0.08,
+                opacity: 0.15,
                 pointerEvents: 'none',
             }}
         />
