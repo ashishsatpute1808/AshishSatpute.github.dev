@@ -744,7 +744,7 @@ Error generating stack: `+o.message+`
           color: var(--text-secondary);
           font-size: 0.9rem;
         }
-      `})]}),np="/AshishSatpute.github.dev/assets/Ashish_Satpute_CV-BQ5mGngJ.pdf",rp=()=>c.jsxs(c.Fragment,{children:[c.jsxs("a",{href:np,download:"Ashish_Satpute_CV.pdf",className:"resume-btn","aria-label":"Download Resume",title:"Download CV",children:[c.jsx("span",{className:"btn-text",children:"GET_CV"})," ",c.jsx(Vd,{size:20})]}),c.jsx("style",{children:`
+      `})]}),np="/assets/Ashish_Satpute_CV-BQ5mGngJ.pdf",rp=()=>c.jsxs(c.Fragment,{children:[c.jsxs("a",{href:np,download:"Ashish_Satpute_CV.pdf",className:"resume-btn","aria-label":"Download Resume",title:"Download CV",children:[c.jsx("span",{className:"btn-text",children:"GET_CV"})," ",c.jsx(Vd,{size:20})]}),c.jsx("style",{children:`
         .resume-btn {
           position: fixed;
           bottom: 2rem;
