@@ -1,10 +1,11 @@
 import React from 'react';
 import { FileText } from 'lucide-react';
+import resumePdf from '../Resume/Ashish_Satpute_CV.pdf';
 
 const ResumeButton = () => {
   return (
     <>
-      <a href="/resume.pdf" download className="resume-btn" aria-label="Download Resume" title="Download CV">
+      <a href={resumePdf} download="Ashish_Satpute_CV.pdf" className="resume-btn" aria-label="Download Resume" title="Download CV">
         <span className="btn-text">GET_CV</span> <FileText size={20} />
       </a>
       <style>{`
